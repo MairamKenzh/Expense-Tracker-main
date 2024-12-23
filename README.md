@@ -1,4 +1,4 @@
-##TAGGING## to view our project when downloading, open the folder *main copy*
+### TAGGING to view our project when downloading, open the folder *main copy*
 # **Expense Tracker**  
 ### _A Personal Finance Management Tool_
 
