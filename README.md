@@ -6,7 +6,7 @@ Welcome to **Expense Tracker**, a sleek and powerful desktop application designe
 
 ---
 
-## **🚀 Project Overview**
+## **Project Overview**
 
 **Expense Tracker** allows users to:
 
@@ -20,7 +20,7 @@ Built for both beginners and experienced users, this app simplifies personal fin
 
 ---
 
-## **💡 Features**
+## **Features**
 
 - **Add Expenses**: Enter details such as description, amount, category, and date for each expense.
 - **View All Expenses**: View all expenses in a table with easy-to-read columns.
@@ -32,7 +32,7 @@ Built for both beginners and experienced users, this app simplifies personal fin
 
 ---
 
-## **🛠 Technologies Used**
+## **Technologies Used**
 
 - **Programming Language**: Java (Version 11 or higher)
 - **UI Framework**: JavaFX for a sleek, modern interface
@@ -41,7 +41,7 @@ Built for both beginners and experienced users, this app simplifies personal fin
 
 ---
 
-## **📋 Setup Guide**
+## **Setup Guide**
 
 ### **1. Prerequisites**
 
@@ -92,7 +92,7 @@ Before running the project, ensure the following are installed:
 
 ---
 
-## **💼 Usage Instructions**
+## **Usage Instructions**
 
 ### **Add an Expense**
 1. Enter the following details:
@@ -128,7 +128,7 @@ Before running the project, ensure the following are installed:
 
 ---
 
-## **📁 Project Structure**
+## **Project Structure**
 
 ```plaintext
 src/
